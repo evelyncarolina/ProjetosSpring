@@ -8,11 +8,11 @@
 		<version>2.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.lojadegames</groupId>
-	<artifactId>games</artifactId>
+	<groupId>com.lojafarmacia</groupId>
+	<artifactId>farmacia</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>games</name>
-	<description>Projeto para loja de games</description>
+	<name>farmacia</name>
+	<description>Projeto Loja de Farmácia</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
